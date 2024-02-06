@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bostrap"
+		},
+		{
+			"path": "../bostrap2"
+		}
+	],
+	"settings": {}
+}
